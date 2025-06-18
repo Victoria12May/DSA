@@ -52,7 +52,7 @@ count: When counting number.
 
 countA:When counting text or number.
 
-#### Functions
+#### Functions And Formula
 
 - Grand totla  (=Sum)     Sumif         Sumifs
 
