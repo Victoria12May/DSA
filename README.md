@@ -51,5 +51,7 @@ I have learnt quite a number of things rang from Ms Excel,SQL, Building portfoli
 count: When counting number.
 
 countA:When counting text or number.
+
+
   
 
