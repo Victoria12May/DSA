@@ -43,7 +43,7 @@ I have learnt quite a number of things rang from Ms Excel,SQL, Building portfoli
   ### To Get Total
 
  Is
- - =+SUM +tap + Ctrl SHIFT + ENTER  OR
+ - = + SUM +tap + Ctrl SHIFT DOWN ARROW + ENTER  OR
  - Alt = +Enter
 
 ### Counting in Excel
