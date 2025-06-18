@@ -77,6 +77,20 @@ countA:When counting text or number.
 - Right
 - Find
 - Search
+- Trim
+- Nesting
+- VLookup
+- Flash view etc.
+
+
+### Pivot Table
+
+povit table is a data summarize tools.
+
+#### Categories
+
+- Quantitative (Numerical)
+- Qualitative  (Categorical)
 
   
 
