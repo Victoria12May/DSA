@@ -14,9 +14,17 @@ I have learnt quite a number of things rang from Ms Excel,SQL, Building portfoli
 ### Date Literacy 
 
 - Data Generation
-   - Data structure
-    - Data storage
-   - Data Analysis
-    - Statistics
-    -  Data driven decision making
+
+ Data generation is simplical the ways in business get to put together before Analysis.
+- Data structure
+
+  Structure that is ready to be Analysis
+- Data storage
+
+  This is ways where Data is been store eg
+  - On Premises
+  - Cloud.
+- Data Analysis
+- Statistics
+-  Data driven decision making
 
