@@ -54,23 +54,29 @@ countA:When counting text or number.
 
 #### Functions
 
-Grand totla  (=Sum)     Sumif         Sumifs
+- Grand totla  (=Sum)     Sumif         Sumifs
 
-Average (=Average)     Averageif      Averageifs
+- Average (=Average)     Averageif      Averageifs
 
-Highest  (=Max)                       Maxifs
+- Highest  (=Max)                       Maxifs
 
-Lowest  (=Min)                        Minifs
+- Lowest  (=Min)                        Minifs
 
-Fouth highest  (=Large)
+- Fouth highest  (=Large)
 
-Third lowest  (=Small)
+- Third lowest  (=Small)
 
-Count   (=Count)       Countif        Countifs  
+- Count   (=Count)       Countif        Countifs  
 
-CountA   (=CountA)
+- CountA   (=CountA)
 
+#### Text Extration 
 
+- Left
+- Mid
+- Right
+- Find
+- Search
 
   
 
