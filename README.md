@@ -37,5 +37,17 @@ I have learnt quite a number of things rang from Ms Excel,SQL, Building portfoli
 - Statistics
 -  Data driven decision making
   
-  ## Excel Function
+  ## Basic Excel Functions
+
+  Excel is working with is formula and function, function aggrument are in the bucket,the aggrument Excel needed are the ones in bold letters.
+  ### To Get Total
+
+ Is
+ - =+SUM +tap + Ctrl SHIFT + ENTER  OR
+ - Alt = +Enter
+
+### Counting in Excel
+
+count: When counting number
+  
 
