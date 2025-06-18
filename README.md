@@ -52,6 +52,25 @@ count: When counting number.
 
 countA:When counting text or number.
 
+#### Functions
+
+Grand totla  (=Sum)     Sumif         Sumifs
+
+Average (=Average)     Averageif      Averageifs
+
+Highest  (=Max)                       Maxifs
+
+Lowest  (=Min)                        Minifs
+
+Fouth highest  (=Large)
+
+Third lowest  (=Small)
+
+Count   (=Count)       Countif        Countifs  
+
+CountA   (=CountA)
+
+
 
   
 
