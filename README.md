@@ -4,8 +4,8 @@ This is where i started my portfolio building while talking my Data Analysis cla
 
 I have learnt quite a number of things rang from Ms Excel,SQL, Building portfolio and Power Bi
 
-## FOUNDATION OF DATA
-
+## EXCEL
+- Foundation of Data
 - Introduction to Ms Excel 
 - Basic Excel
 - Reports and Dasboards
@@ -25,6 +25,17 @@ I have learnt quite a number of things rang from Ms Excel,SQL, Building portfoli
   - On Premises
   - Cloud.
 - Data Analysis
+
+   Data analysis is a process;
+- Data Analysis life cycle
+  -  Ingestion
+  -  Transformation
+  -  Modeling
+  -  Visualization
+  -   Analysis
+  -  Presentation
 - Statistics
 -  Data driven decision making
+  
+  ## Excel Function
 
