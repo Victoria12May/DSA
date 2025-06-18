@@ -48,6 +48,8 @@ I have learnt quite a number of things rang from Ms Excel,SQL, Building portfoli
 
 ### Counting in Excel
 
-count: When counting number
+count: When counting number.
+
+countA:When counting text or number.
   
 
